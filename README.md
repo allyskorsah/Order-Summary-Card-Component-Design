@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@allyskorsah](https://your-solution-url.com)
+- Solution URL: [@allyskorsah](https://www.frontendmentor.io/solutions/order-summary-card-component-design-5rLLGjqdQa)
 - Live Site URL: [allyskorsah.github.io](https://allyskorsah.github.io/Order-Summary-Card-Component-Design/)
 
 ## My process
